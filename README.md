@@ -33,7 +33,7 @@ A Python-based Language Translation Tool that translates text from one language 
 
 Step 1: Clone the Repository
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/rathod-07/codealpha_tasks-1.1.git
 
 Step 2: Install Required Library
 
